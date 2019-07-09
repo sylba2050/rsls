@@ -1,0 +1,9 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["Masataka Hisasue <masataka.hisasue@optim.co.jp>"]
+edition = "2018"
+
+[dependencies]
+filetime = "0.2.6"
+chrono = "0.4"
